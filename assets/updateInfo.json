@@ -1,6 +1,6 @@
 {
 	"assets": [
-		{"id":"fork_essentials","desc":"Essential Fork Assets","ver":"062000","type":"core"},
+		{"id":"fork_essentials","desc":"Essential Fork Assets","ver":"062000","type":"core"}
     ],
     "music": 191
 }
