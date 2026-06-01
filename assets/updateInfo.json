@@ -1,11 +1,6 @@
 {
 	"assets": [
 		{"id":"fork_essentials","desc":"Essential Fork Assets","ver":"062000","type":"core"},
-        {"id":"fork_essentials_1","desc":"Zero Form Icons","ver":"062002","type":"core"},
-        {"id":"fork_essentials_2","desc":"Fixed border for fork effects, singular blast","ver":"062003","type":"core"},
-        {"id":"fork_essentials_3","desc":"Bless/Drain procs","ver":"062006","type":"core"},
-        {"id":"fork_essentials_4","desc":"Icons for refund, cannon charge, and mini-deathsurge","ver":"062011","type":"core"},
-        {"id":"fork_essentials_5","desc":"Icon for Strenghten on Kill","ver":"062012","type":"core"}
     ],
-    "music": 175
+    "music": 191
 }
