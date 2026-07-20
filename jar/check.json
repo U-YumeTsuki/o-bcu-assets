@@ -1,6 +1,12 @@
 {
     "history": [
         {
+            "ver":"0.6.3.2",
+            "CORE_VER":"0.7.20.0",
+            "forkver":15,
+            "info":"<a href=\"https://battlecats.miraheze.org/wiki/Version_15.5_Update\">15.5 data, bug fixes</a>"
+        },
+        {
             "ver":"0.6.3.1",
             "CORE_VER":"0.7.18.0",
             "forkver":15,
