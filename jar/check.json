@@ -1,6 +1,12 @@
 {
     "history": [
         {
+            "ver":"0.6.3.4",
+            "CORE_VER":"0.7.22.0",
+            "forkver":15,
+            "info":"Support for 16.0 CatCombo talents, bug fixes"
+        },
+        {
             "ver":"0.6.3.3",
             "CORE_VER":"0.7.22.0",
             "forkver":15,
