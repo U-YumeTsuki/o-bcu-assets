@@ -1,7 +1,7 @@
 {
     "apk_update":[
         {
-            "ver":"0.20.21",
+            "ver":"0.20.22",
             "CORE_VER":"0.7.22.0",
             "FORK_VER":15,
             "desc":"15.7 Data, charagroup and levelrestrict lists for custom stages"
